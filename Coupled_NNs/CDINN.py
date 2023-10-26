@@ -169,7 +169,7 @@ class INN(torch.nn.Module):
     self.direct_NN=DNN()
     # Load the weigths found in offline step for direct NN
 
-    self.direct_NN.dnn.load_state_dict(torch.load('/content/drive/MyDrive/Scattering_data/Weights/weigths_direct_Scattering_problem.pt',
+    self.direct_NN.dnn.load_state_dict(torch.load('./Coupled_NNs/Weigths_to_DNN.pt',
                                                   map_location=torch.device(device)))
 
   # set the boundary representation 
