@@ -1,5 +1,5 @@
-# Code repository for direct-then-inverse coupled artificial neural netwrok for the acoustic inverse scattering problem
-This repository includes the scripts for the direct and inverse neural networks, which serve as a model for solving the inverse acoustic scattering problem. It also contains the necessary code for evaluating the performance of these networks.
+# Code repository for direct-then-inverse coupled artificial neural netwrok (DTINN) for the acoustic inverse scattering problem
+This repository contains the dataset and scripts for direct and inverse neural networks proposed in the paper, which serve as a model for solving the inverse acoustic scattering problem. It also contains the necessary code for evaluating the performance of these networks.
 
 The repository is associated with the following manuscript:
 
