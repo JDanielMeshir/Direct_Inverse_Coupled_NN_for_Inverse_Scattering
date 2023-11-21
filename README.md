@@ -9,9 +9,9 @@ You can find the scripts used to generate the figures presented in the paper in 
 
 ## Repository structure
 
-- [Coupled_NNs](./Coupled_NNs) :Contains the code for the direct and inverse neural networks  `CDINN` used in both the offline and online steps. It also includes the weights obtained during the training of the Direct NN (DNN) in the offline step `Weigths_to_DNN` .
+- [Coupled_NNs](./Coupled_NNs) : Contains the code for the direct and inverse neural networks  `CDINN` used in both the offline and online steps. It also includes the weights obtained during Direct NN (DNN) training in the offline step `Weigths_to_DNN` .
 - [Notes](./Notes) : Provides Jupyter notebooks with explanations of the online step for solving the inverse scattering problem, along with testing cases. The data for these testing cases can be found in [Data_for_figures](./outputs/Data_for_figures)
-- [outputs](./outputs) : Contains scripts that allow you to reproduce the figures presented in the manuscript.
+- [outputs](./outputs) : Contains scripts that allow to reproduce the figures presented in the manuscript.
 
 ## Acknowledgments
 
