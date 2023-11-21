@@ -13,3 +13,13 @@ You can find the scripts used to generate the figures presented in the paper in 
 - [Notes](./Notes) : Provides Jupyter notebooks with explanations of the online step for solving the inverse scattering problem, along with testing cases. The data for these testing cases can be found in [Data_for_figures](./outputs/Data_for_figures)
 - [outputs](./outputs) : Contains scripts that allow you to reproduce the figures presented in the manuscript.
 
+## Acknowledgments
+
+We are grateful for the facilities provided to the project ``Modeling and forecasting of physical phenomena using artificial neural networks'' by the Center for Data Analysis and Supercomputing (CADS) of the University of Guadalajara, through the use of the Leo Atrox Supercomputer.
+
+<p align="center">
+  <img src="./CADs/cads_img_leoatrax_logo.png" height="85"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./CADs/logoCADs.png" height="85"/> &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
