@@ -47,7 +47,7 @@ params=np.array([t for  i in range(len(directions))])
 
 #Load the far-field pattern with 64 measurements, split into real and imaginary parts.
 # with this far-field patter we will to reconstruc the shape in the online step
-cases=[1,2,3,5]
+cases=[1,2,3,4]
 for i in cases:
   testcase=np.load(f'./Data_for_figures/u_inf_Case{i}.npy')
 
@@ -69,7 +69,7 @@ for i in cases:
   # Set our inverse NN
   # The last layer contains the number of parameters to be recovered for the display form.
 
-  layers=[64,64,128,64,10] #11 [a_0,...,a_5,b_1,...,b5,h,k]
+  layers=[64,64,128,64,18] #11 [a_0,...,a_5,b_1,...,b5,h,k]
   activations=[torch.nn.Tanh,torch.nn.Tanh,torch.nn.Tanh,torch.nn.Identity]
 
   inverse_NN=INN(layers,activations)
