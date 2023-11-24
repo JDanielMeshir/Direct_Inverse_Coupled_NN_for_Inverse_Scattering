@@ -15,11 +15,12 @@ You can find the scripts used to generate the figures presented in the paper in 
 
 ## Acknowledgments
 
-We are grateful for the facilities provided to the project "Modeling and forecasting of physical phenomena using artificial neural networks" by the Center for Data Analysis and Supercomputing (CADS) of the University of Guadalajara, through the use of the Leo Atrox Supercomputer.
+We are grateful for the facilities granted to the project ``Modelación y pronóstico de fenómenos físicos mediante redes neuronales artificiales'' by the Center for Data Analysis and Supercomputing (CADS) of the University of Guadalajara, through the use of the Leo Atrox Supercomputer. J. D. M. thank to CONAHCYT for the postgraduated scholarship.
 
 <p align="center">
   <img src="./CADs/cads_img_leoatrax_logo.png" height="85"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./CADs/logoCADs.png" height="85"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./CADs/CONAHCYT_logo.jpg" height="120"/> &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
