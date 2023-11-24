@@ -48,7 +48,7 @@ params=np.array([t for  i in range(len(directions))])
 #Load the far-field pattern with 64 measurements, split into real and imaginary parts.
 # with this far-field patter we will to reconstruc the shape in the online step
 #cases=[1]
-cases=[4]
+cases=[1,2,3,4]
 #ases=[2,3]
 for i in cases:
   testcase=np.load(f'./Data_for_figures/u_inf_Case{i}.npy')
